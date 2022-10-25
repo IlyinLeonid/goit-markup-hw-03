@@ -361,13 +361,14 @@ img {
 /*PORTFOLIO*/
 /*filters*/
 
-.filters {
+.galery {
         padding-top: 94px;
-        padding-bottom: 50px;
+        padding-bottom: 94px;
 }
 .filters-list {
         display: flex;
         justify-content: center;
+        padding-bottom: 50px;
 }
 .filters-list-item:not(:last-child) {
         display: flex;
